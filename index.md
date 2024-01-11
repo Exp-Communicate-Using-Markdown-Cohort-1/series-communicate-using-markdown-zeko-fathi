@@ -12,3 +12,7 @@ while(high >= low){
   else return mid;
 }
 ```
+My to-do list 
+- [ ] don't fail 482
+- [x] don't fail 497
+- [ ] don't fail 202
